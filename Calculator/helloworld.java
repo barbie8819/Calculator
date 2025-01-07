@@ -12,6 +12,18 @@ case'+':
  result = num1+num2;
 Systrm.out.println(result);
  break;
+case'-':
+ result = num1-num2;
+Systrm.out.println(result);
+ break;
+case'*':
+ result = num1*num2;
+Systrm.out.println(result);
+ break;
+case'/':
+ result = num1/num2;
+Systrm.out.println(result);
+ break;
 default:
 Systrm.out.println(" Operator");
 
